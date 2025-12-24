@@ -9,7 +9,7 @@ body {
   grid-template-areas:
     "nav"
     "cont";
-  grid-template-rows: 15vh 85vh;
+  grid-template-rows: 100vh 100vh;
 
   @include respond(desktop) {
     padding-top: 10px;
